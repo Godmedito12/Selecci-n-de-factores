@@ -1,2 +1,2 @@
-# Selecci-n-de-factores
+# Seleccion-de-factores
 Ensayo 
